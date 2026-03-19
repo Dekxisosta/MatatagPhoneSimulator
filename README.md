@@ -1,6 +1,6 @@
 # Matatag OS — Java Smartphone Simulator
 
-A Java-based smartphone operating system simulator built as an Object-Oriented Programming project. Matatag OS simulates core smartphone behaviors through a structured, layered architecture spanning apps, managers, models, and UI — complete with a boot sequence that logs every system initialization step and internal state change.
+A Java-based smartphone OS simulator built with OOP principles — featuring a layered app/manager/model/ui architecture, dynamic command system, battery drain callbacks, wifi/mobile data simulation, and a full boot sequence that logs each system behavior and internal state change
 
 ---
 
